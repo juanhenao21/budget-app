@@ -1,0 +1,14 @@
+{
+  "_output_dir": "/home/juan/Documents",
+  "_template": "gh:cjolowicz/cookiecutter-hypermodern-python",
+  "author": "Juan Henao",
+  "copyright_year": "2023",
+  "development_status": "Development Status :: 1 - Planning",
+  "email": "juanhenao21@gmail.com",
+  "friendly_name": "Budget App",
+  "github_user": "juanhenao21",
+  "license": "MIT",
+  "package_name": "budget_app",
+  "project_name": "budget-app",
+  "version": "0.0.0"
+}
